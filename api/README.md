@@ -1,4 +1,4 @@
-# Full Stack Trivia API Backend
+# Full Stack Capstone API Backend
 
 ## Getting Started
 
