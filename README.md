@@ -24,6 +24,8 @@ The root directory contains a complete create-react-app frontend to consume the 
 
 In the project directory, you can run:
 
+#### `yarn` (it will install all the required dependencies)
+
 #### `yarn start`
 
 Runs the app in the development mode.\
